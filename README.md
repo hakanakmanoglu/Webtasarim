@@ -1,2 +1,0 @@
-# knightempire
-oyunla alakalı
